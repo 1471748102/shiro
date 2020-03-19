@@ -769,7 +769,7 @@ public String login(
 
 # 联系
 
-If you have some questions after you see this article, you can contact me or you can find some info by clicking these links.
+If you have some questions after you see this article, you can contact me or you can find some info by clicking these links..
 
 - [Blog@TyCoding's blog](http://www.tycoding.cn)
 - [GitHub@TyCoding](https://github.com/TyCoding)
